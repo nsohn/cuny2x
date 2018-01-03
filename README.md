@@ -1,1 +1,1 @@
-# cuny2x
+git@github.com:nsohn/sampleproject.git
